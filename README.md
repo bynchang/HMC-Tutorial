@@ -8,5 +8,5 @@ The vignette is designed for people who have some knowledge in MCMC algorithms (
 • A comparison between HMC and MH for a bivariate normal <br/>
 • The effect of hyper-parameters of the HMC <br/>
 
-View the hmc_tutorial.ipynb file or download the hmc_tutorial.html for the vignette. <br/>
+View the vignette [here](https://nbviewer.jupyter.org/github/bynchang/HMC-Tutorial/blob/master/hmc_tutorial.html). <br/>
 The hmc_sampler.ipynb file contains code that implemets the HMC sampler. <br/>
